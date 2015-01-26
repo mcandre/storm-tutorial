@@ -33,12 +33,12 @@ resources/sherlock-holmes/
 We write a Storm topology to divide up the work for counting words.
 
 ```
-$ cat src/main/java/us/yellosoft/storm/tutorial/WordCount.java
+$ cat src/main/java/us/yellosoft/storm/tutorial/WordCountTopology.java
 package us.yellosoft.storm.tutorial;
 
 // ...
 
-public class WordCount {
+public class WordCountTopology {
   // ...
 ...
 ```
@@ -57,7 +57,7 @@ This example is tested to successfully compile and run in Mac OS X, currently th
 
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 6+
 * [Maven](http://maven.apache.org/) 3+
-* [Storm](https://storm.apache.org/)
+* [Storm](https://storm.apache.org/) 0.9.3+
 * `make`
 * `sh`
 * Ensure the `storm` script is in `$PATH` (test with `which storm`).
@@ -87,3 +87,7 @@ Optionally, run `brew install tree`.
 Either `git clone https://github.com/mcandre/storm-tutorial.git`, or manually download and extract the [ZIP](https://github.com/mcandre/storm-tutorial/archive/master.zip)ball.
 
 Consider forking [storm-tutorial](https://github.com/mcandre/storm-tutorial) and amending the README to help other Stormers along the way.
+
+# CREDITS
+
+* [Apache Storm Starter](https://github.com/apache/storm/tree/master/examples/storm-starter) - Source code for `WordCountTopology.java`

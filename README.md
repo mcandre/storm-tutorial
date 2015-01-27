@@ -68,7 +68,7 @@ $ storm \
   jar \
   target/storm-tutorial-0.0.0.jar \
   us.yellosoft.storm.tutorial.WordCountTopology \
-  | ack 'Emitting: word-counter default \[Watson.*, ' \
+  | grep 'Emitting: word-counter default \[Watson.*, ' \
   | sed 's/^.*default\s*//'
 ...
  [Watson!", 9]

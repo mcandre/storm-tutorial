@@ -21,11 +21,10 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import java.util.Collection;
-import java.util.List;
-import java.util.ArrayList;
 import java.util.Queue;
 import java.util.PriorityQueue;
 import java.util.Map;
+import java.util.HashMap;
 import java.io.File;
 import java.io.FileReader;
 import java.io.BufferedReader;
@@ -38,7 +37,7 @@ public class WordCountTopology {
 
     private SpoutOutputCollector collector;
 
-    private Queue<BufferedReader> bufferedReaders = new PriorityQueue<BufferedReader>();
+    private Queue<String> lines = new PriorityQueue<String>();
 
     public TextSpout() throws FileNotFoundException, IOException {
       Collection<File> textFiles = FileUtils.listFiles(new File(TEXT_DIRECTORY), TrueFileFilter.INSTANCE, TrueFileFilter.INSTANCE);
@@ -47,7 +46,13 @@ public class WordCountTopology {
         FileReader fileReader = new FileReader(textFile);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
 
-        bufferedReaders.add(bufferedReader);
+        String line = bufferedReader.readLine();
+        while (line != null) {
+          lines.add(line);
+          line = bufferedReader.readLine();
+        }
+
+        bufferedReader.close();
       }
     }
 
@@ -56,25 +61,8 @@ public class WordCountTopology {
     }
 
     public void nextTuple() {
-      BufferedReader bufferedReader = bufferedReaders.peek();
-      if (bufferedReader != null) {
-        try {
-          String line = bufferedReader.readLine();
-
-          if (line != null) {
-            List<Object> tuple = new ArrayList<Object>();
-            tuple.add(line);
-            collector.emit(tuple);
-          }
-          else {
-            bufferedReader.close();
-
-            bufferedReaders.poll();
-          }
-        }
-        catch(IOException e) {
-          collector.reportError(e);
-        }
+      if (lines.peek() != null) {
+        collector.emit(new Values(lines.poll()));
       }
     }
 
@@ -88,25 +76,45 @@ public class WordCountTopology {
       String[] words = tuple.getString(0).split(" ");
 
       for (String word:words) {
-        List<Object> tuple2 = new ArrayList<Object>();
-        tuple2.add(word);
-        collector.emit(tuple2);
+        if (word.length() > 0) {
+          collector.emit(new Values(word));
+        }
       }
     }
 
     public void declareOutputFields(OutputFieldsDeclarer declarer) {
       declarer.declare(new Fields("word"));
     }
+  }
 
-    public Map<String, Object> getComponentConfiguration() {
-      return null;
+  public static class WordCount extends BaseBasicBolt {
+    private Map<String, Integer> frequencies = new HashMap<String, Integer>();
+
+    public void execute(Tuple tuple, BasicOutputCollector collector) {
+      String word = tuple.getString(0);
+      Integer oldFrequency = frequencies.get(word);
+
+      if (oldFrequency == null) {
+        oldFrequency = 0;
+      }
+
+      Integer newFrequency = oldFrequency + 1;
+
+      frequencies.put(word, newFrequency);
+
+      collector.emit(new Values(word, newFrequency));
+    }
+
+    public void declareOutputFields(OutputFieldsDeclarer declarer) {
+      declarer.declare(new Fields("word", "frequency"));
     }
   }
 
   public static void main(String[] args) throws Exception {
     TopologyBuilder builder = new TopologyBuilder();
-    builder.setSpout("textSpout", new TextSpout(), 1);
-    builder.setBolt("wordSplitter", new WordSplitter(), 5).shuffleGrouping("textSpout");
+    builder.setSpout("text-spout", new TextSpout(), 1);
+    builder.setBolt("word-splitter", new WordSplitter(), 4).shuffleGrouping("text-spout");
+    builder.setBolt("word-counter", new WordCount(), 8).fieldsGrouping("word-splitter", new Fields("word"));
 
     Config config = new Config();
     config.setDebug(true);

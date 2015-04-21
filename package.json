@@ -1,0 +1,21 @@
+{
+  "name": "storm-tutorial",
+  "description": "distributed wc",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcandre/storm-tutorial.git"
+  },
+  "author": "Andrew Pennebaker <andrew.pennebaker@gmail.com> (http://www.yellosoft.us/)",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "editorconfig-tools": ">= 0.1.1"
+  }
+}

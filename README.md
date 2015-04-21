@@ -33,7 +33,7 @@ resources/sherlock-holmes/
 We write a Storm topology to divide up the work for counting words.
 
 ```
-$ tail -n 14 src/main/java/us/yellosoft/storm/tutorial/WordCountTopology.java 
+$ tail -n 14 src/main/java/us/yellosoft/storm/tutorial/WordCountTopology.java
   public static void main(String[] args) throws Exception {
     TopologyBuilder builder = new TopologyBuilder();
     builder.setSpout("text-spout", new TextSpout(), 1);

@@ -1,3 +1,4 @@
 target/
 wc/
 Gemfile.lock
+node_modules/

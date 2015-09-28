@@ -119,7 +119,7 @@ This example is tested to successfully compile and run in Mac OS X, currently th
 
 # REQUIREMENTS
 
-* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 6+
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 1.7+
 * [Gradle](http://gradle.org/) 2.1+
 * [Storm](https://storm.apache.org/) 0.9.3+
 * `make`

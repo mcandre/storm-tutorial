@@ -62,11 +62,7 @@ public final class WordCountTopology {
       }
     }
 
-    /** Open the spout
-        @param stormConf Storm configuration
-        @param context topology
-        @param collector text emitter
-     */
+    @Override
     public void open(
       final Map stormConf,
       final TopologyContext context,
@@ -75,16 +71,14 @@ public final class WordCountTopology {
       this.collector = collector;
     }
 
-    /** Generate next text */
+    @Override
     public void nextTuple() {
       if (lines.peek() != null) {
         collector.emit(new Values(lines.poll()));
       }
     }
 
-    /** Specify emitted fields
-        @param declarer Storm specification
-     */
+    @Override
     public void declareOutputFields(final OutputFieldsDeclarer declarer) {
       declarer.declare(new Fields("line"));
     }
@@ -94,10 +88,7 @@ public final class WordCountTopology {
   public static class WordSplitter extends BaseBasicBolt {
     public static final long serialVersionUID = 1L;
 
-    /** Split text into words
-        @param tuple text
-        @param collector word emitter
-     */
+    @Override
     public void execute(
       final Tuple tuple,
       final BasicOutputCollector collector
@@ -111,9 +102,7 @@ public final class WordCountTopology {
       }
     }
 
-    /** Emitter specification
-        @param declarer Storm specification
-     */
+    @Override
     public void declareOutputFields(final OutputFieldsDeclarer declarer) {
       declarer.declare(new Fields("word"));
     }
@@ -125,10 +114,7 @@ public final class WordCountTopology {
 
     private Map<String, Integer> frequencies = new HashMap<String, Integer>();
 
-    /** Count word frequencies
-        @param tuple words
-        @param collector frequency emitter
-     */
+    @Override
     public void execute(
       final Tuple tuple,
       final BasicOutputCollector collector
@@ -147,9 +133,7 @@ public final class WordCountTopology {
       collector.emit(new Values(word, newFrequency));
     }
 
-    /** Emitter specification
-        @param declarer Storm specification
-     */
+    @Override
     public void declareOutputFields(final OutputFieldsDeclarer declarer) {
       declarer.declare(new Fields("word", "frequency"));
     }

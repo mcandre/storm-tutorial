@@ -132,6 +132,7 @@ This example is tested to successfully compile and run in Mac OS X, currently th
 * `grep`
 * `sed`
 * `tail`
+* [Sonar](http://www.sonarqube.org/)
 * [Ruby](https://www.ruby-lang.org/) 1.9+
 * [Guard](http://guardgem.org/) 1.8.2+
 
@@ -146,7 +147,7 @@ Mac comes with JDK, `sh`, `grep`, `sed`, and `tail` by default. The remainder ca
 3. Install [Homebrew](http://brew.sh/).
 4. Launch `Terminal.app`, run `brew install maven storm`.
 
-Optionally, run `brew install tree`.
+Optionally, run `brew install tree sonar sonar-runner`.
 
 ## Huh?
 

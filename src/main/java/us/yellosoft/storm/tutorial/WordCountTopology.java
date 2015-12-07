@@ -23,8 +23,8 @@ import java.util.PriorityQueue;
 import java.util.Map;
 import java.util.HashMap;
 import java.io.File;
-import java.io.FileReader;
-import java.io.BufferedReader;
+import java.util.Scanner;
+import java.nio.charset.StandardCharsets;
 import java.io.IOException;
 
 /** Word count frequency topology */
@@ -38,7 +38,7 @@ public final class WordCountTopology {
 
     public static final String TEXT_DIRECTORY = "resources/sherlock-holmes/";
 
-    private SpoutOutputCollector collector;
+    private transient SpoutOutputCollector collector;
 
     private Queue<String> lines = new PriorityQueue<String>();
 
@@ -49,16 +49,12 @@ public final class WordCountTopology {
       Collection<File> textFiles = FileUtils.listFiles(new File(TEXT_DIRECTORY), TrueFileFilter.INSTANCE, TrueFileFilter.INSTANCE);
 
       for (File textFile:textFiles) {
-        FileReader fileReader = new FileReader(textFile);
-        BufferedReader bufferedReader = new BufferedReader(fileReader);
-
-        String line = bufferedReader.readLine();
-        while (line != null) {
-          lines.add(line);
-          line = bufferedReader.readLine();
+        Scanner scanner = new Scanner(textFile, StandardCharsets.UTF_8.name());
+        while (scanner.hasNextLine()) {
+          lines.add(scanner.nextLine());
         }
 
-        bufferedReader.close();
+        scanner.close();
       }
     }
 

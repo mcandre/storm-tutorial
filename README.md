@@ -133,6 +133,7 @@ This example is tested to successfully compile and run in Mac OS X, currently th
 * `sed`
 * `tail`
 * [Sonar](http://www.sonarqube.org/)
+* [Infer](http://fbinfer.com/)
 * [Ruby](https://www.ruby-lang.org/) 1.9+
 * [Guard](http://guardgem.org/) 1.8.2+
 

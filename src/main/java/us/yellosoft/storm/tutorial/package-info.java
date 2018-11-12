@@ -1,4 +1,4 @@
 /**
-   Storm example (WordCount, doy!)
- */
+Storm example (WordCount, doy!)
+*/
 package us.yellosoft.storm.tutorial;

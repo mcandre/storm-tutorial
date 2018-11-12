@@ -1,11 +1,11 @@
 
 Arthur Conan Doyle: Through the Magic Door
 ==========================================
-    a machine-readable transcription 
+    a machine-readable transcription
 
-Version 1.0:	1993-02-08
-	1.1:	1993-04-07	corrected a number of transcription
-				errors
+Version 1.0:  1993-02-08
+  1.1:  1993-04-07  corrected a number of transcription
+        errors
 
 This is a machine-readable transcription of Arthur Conan Doyle's
 `Through the Magic Door', published by Thomas Nelson and Sons, Ltd.:
@@ -31,13 +31,13 @@ represent correspondingly longer dashes.
 
 Accented characters have been represented by the following encoding:
 
-	<e'>	e acute
-	<e`>	e grave
-	<e:>	e diaeresis
-	<o^>	e circumflex
-	<ae>	ae ligature
-	<OE>	OE ligature
-	<oe>	oe ligature
+  <e'>  e acute
+  <e`>  e grave
+  <e:>  e diaeresis
+  <o^>  e circumflex
+  <ae>  ae ligature
+  <OE>  OE ligature
+  <oe>  oe ligature
 
 I trust the principles are fairly clear.
 
@@ -45,15 +45,15 @@ There is one possible printing error in the book, which has been left
 uncorrected: 'Paraquay'.
 
 The transcription and proof-reading was done by Anders Thulin,
-Rydsvagen 288, S-582 50 Linkoping, Sweden. 
+Rydsvagen 288, S-582 50 Linkoping, Sweden.
 Email: ath@linkoping.trab.se.
 
 I'd be grateful to learn of any errors you find in the text.
 
-	THROUGH THE
-	MAGIC DOOR
+  THROUGH THE
+  MAGIC DOOR
 
-	    BY
+      BY
 
      ARTHUR CONAN DOYLE
 
@@ -62,7 +62,7 @@ I'd be grateful to learn of any errors you find in the text.
             I.
 
   I care not how humble your bookshelf may
-be, nor how lowly the room which it adorns. 
+be, nor how lowly the room which it adorns.
 Close the door of that room behind you, shut
 off with it all the cares of the outer world,
 plunge back into the soothing company of the
@@ -74,7 +74,7 @@ behind you. There stand your noble, silent
 comrades, waiting in their ranks. Pass your
 eye down their files. Choose your man. And
 then you have but to hold up your hand to
-him and away you go together into dreamland. 
+him and away you go together into dreamland.
 Surely there would be something eerie about
 a line of books were it not that familiarity has
 deadened our sense of it. Each is a mummified
@@ -107,7 +107,7 @@ that he lacks? He can signal to any one of
 the world's great story-tellers, and out comes
 the dead man and holds him enthralled by the
 hour. The dead are such good company that
-one may come to think too little of the living. 
+one may come to think too little of the living.
 It is a real and a pressing danger with many
 of us, that we should never find our own
 thoughts and our own souls, but be ever obsessed
@@ -122,7 +122,7 @@ days.
   Come through the magic door with me,
 and sit here on the green settee, where you
 can see the old oak case with its untidy lines
-of volumes. Smoking is not forbidden. 
+of volumes. Smoking is not forbidden.
 Would you care to hear me talk of them?
 Well, I ask nothing better, for there is no
 volume there which is not a dear, personal
@@ -200,7 +200,7 @@ seems entwined into my whole life as I look
 backwards. It was my comrade in my student
 days, it has been with me on the sweltering
 Gold Coast, and it formed part of my humble
-kit when I went a-whaling in the Arctic. 
+kit when I went a-whaling in the Arctic.
 Honest Scotch harpooners have addled their
 brains over it, and you may still see the grease
 stains where the second engineer grappled
@@ -231,7 +231,7 @@ world to me. History had been a lesson
 and abhorrent. Suddenly the task and the
 drudgery became an incursion into an enchanted
 land, a land of colour and beauty,
-with a kind, wise guide to point the path. 
+with a kind, wise guide to point the path.
 In that great style of his I loved even the
 faults---indeed, now that I come to think of
 it, it was the faults which I loved best. No
@@ -253,7 +253,7 @@ but still as I glance over the Essays I am filled
 with admiration and wonder at the alternate
 power of handling a great subject, and of adorning
 it by delightful detail---just a bold sweep of
-the brush, and then the most delicate stippling. 
+the brush, and then the most delicate stippling.
 As he leads you down the path, he for ever
 indicates the alluring side-tracks which branch
 away from it. An admirable, if somewhat old-fashioned,
@@ -276,7 +276,7 @@ more definite picture given in a shorter space---
 
   ``As we close it, the club-room is before
 us, and the table on which stand the omelet
-for Nugent, and the lemons for Johnson. 
+for Nugent, and the lemons for Johnson.
 There are assembled those heads which live
 for ever on the canvas of Reynolds. There
 are the spectacles of Burke, and the tall thin
@@ -318,20 +318,20 @@ prejudice. My judgment now confirms all
 that I felt for him then.
 
   My four-volume edition of the History
-stands, as you see, to the right of the Essays. 
+stands, as you see, to the right of the Essays.
 Do you recollect the third chapter of that
 work---the one which reconstructs the England
 of the seventeenth century? It has always
 seemed to me the very high-water mark
 of Macaulay's powers, with its marvellous
-mixture of precise fact and romantic phrasing. 
+mixture of precise fact and romantic phrasing.
 The population of towns, the statistics of
 commerce, the prosaic facts of life are all
 transmuted into wonder and interest by the
 handling of the master. You feel that he
 could have cast a glamour over the multiplication
 table had he set himself to do so. Take
-a single concrete example of what I mean. 
+a single concrete example of what I mean.
 The fact that a Londoner in the country, or
 a countryman in London, felt equally out of
 place in those days of difficult travel, would
@@ -393,14 +393,14 @@ it seems to me, reach the same level as the
 shorter articles. One cannot but feel that it
 is a brilliant piece of special pleading from a
 fervid Whig, and that there must be more to
-be said for the other side than is there set forth. 
+be said for the other side than is there set forth.
 Some of the Essays are tinged also, no doubt,
-by his own political and religious limitations. 
+by his own political and religious limitations.
 The best are those which get right away into
-the broad fields of literature and philosophy. 
+the broad fields of literature and philosophy.
 Johnson, Walpole, Madame D'Arblay, Addison,
 and the two great Indian ones, Clive
-and Warren Hastings, are my own favourites. 
+and Warren Hastings, are my own favourites.
 Frederick the Great, too, must surely stand
 in the first rank. Only one would I wish to
 eliminate. It is the diabolically clever criticism
@@ -425,7 +425,7 @@ just think of Scott's ``Border Ballads,'' and
 then of Macaulay's ``Lays.'' The machines
 must be alike, when the products are so similar.
 Each was the only man who could possibly
-have written the poems of the other. 
+have written the poems of the other.
 What swing and dash in both of them! What
 a love of all that is and noble and martial!
 So simple, and yet so strong. But there
@@ -509,7 +509,7 @@ stands does it not elevate the horse-trough?
 We all do this, I suppose, in a small way for
 ourselves. There are few men who have not
 some chosen quotations printed on their study
-mantelpieces, or, better still, in their hearts. 
+mantelpieces, or, better still, in their hearts.
 Carlyle's transcription of ``Rest! Rest! Shall
 I not have all Eternity to rest in!'' is a pretty
 good spur to a weary man. But what we need
@@ -522,43 +522,43 @@ through the eye right deep down into the soul.
   However, all this has nothing to do with
 Macaulay's glorious lays, save that when you
 want some flowers of manliness and patriotism
-you can pluck quite a bouquet out of those. 
+you can pluck quite a bouquet out of those.
 I had the good fortune to learn the Lay of
 Horatius off by heart when I was a child, and
 it stamped itself on my plastic mind, so that
-even now I can reel off almost the whole of it. 
+even now I can reel off almost the whole of it.
 Goldsmith said that in conversation he was like
 the man who had a thousand pounds in the
 bank, but could not compete with the man who
 had an actual sixpence in his pocket. So the
 ballad that you bear in your mind outweighs
-the whole bookshelf which waits for reference. 
+the whole bookshelf which waits for reference.
 But I want you now to move your eye a little
 farther down the shelf to the line of olive-green
 volumes. That is my edition of Scott. But
 surely I must give you a little breathing space
 before I venture upon them.
 
-		    II.
+        II.
 
   It is a great thing to start life with a small
 number of really good books which are your
 very own. You may not appreciate them at
 first. You may pine for your novel of crude
 and unadulterated adventure. You may, and
-will, give it the preference when you can. 
+will, give it the preference when you can.
 But the dull days come, and the rainy days
 come, and always you are driven to fill up the
 chinks of your reading with the worthy books
 which wait so patiently for your notice. And
 then suddenly, on a day which marks an epoch
-in your life, you understand the difference. 
+in your life, you understand the difference.
 You see, like a flash, how the one stands for
 nothing, and the other for literature. From
 that day onwards you may return to your
 crudities, but at least you do so with some
 standard of comparison in your mind. You
-can never be the same as you were before. 
+can never be the same as you were before.
 Then gradually the good thing becomes more
 dear to you; it builds itself up with your
 growing mind; it becomes a part of your
@@ -579,7 +579,7 @@ copy was left in the grass by the side of a
 stream, fell into the water, and was eventually
 picked up three days later, swollen and decomposed,
 upon a mud-bank. I think I may say,
-however, that I had worn it out before I lost it. 
+however, that I had worn it out before I lost it.
 Indeed, it was perhaps as well that it was some
 years before it was replaced, for my instinct was
 always to read it again instead of breaking fresh
@@ -594,13 +594,13 @@ the same. It was the moment when the unknown
 knight, at Ashby-de-la-Zouch, riding past
 the pavilions of the lesser men, strikes with the
 sharp end of his lance, in a challenge to mortal
-combat, the shield of the formidable Templar. 
+combat, the shield of the formidable Templar.
 It was, indeed, a splendid moment! What
 matter that no Templar was allowed by the
 rules of his Order to take part in so secular
 and frivolous an affair as a tournament? It is
 the privilege of great masters to make things
-so, and it is a churlish thing to gainsay it. 
+so, and it is a churlish thing to gainsay it.
 Was it not Wendell Holmes who described
 the prosaic man, who enters a drawing-room
 with a couple of facts, like ill-conditioned bull-dogs
@@ -644,7 +644,7 @@ sustained flight than that.
   There is, I admit, an intolerable amount of
 redundant verbiage in Scott's novels. Those
 endless and unnecessary introductions make the
-shell very thick before you come to the oyster. 
+shell very thick before you come to the oyster.
 They are often admirable in themselves, learned,
 witty, picturesque, but with no relation or proportion
 to the story which they are supposed
@@ -658,7 +658,7 @@ sandwiching in a ghost story as Dickens has
 dared to do. As well might a dramatic author
 rush up to the footlights and begin telling anecdotes
 while his play was suspending its action
-and his characters waiting wearily behind him. 
+and his characters waiting wearily behind him.
 It is all wrong, though every great name can
 be quoted in support of it. Our sense of form
 is lamentably lacking, and Sir Walter sinned
@@ -670,7 +670,7 @@ stands at last before the grim Puritan,
 upon whose head a price has been set: ``A
 thousand marks or a bed of heather!'' says he,
 as he draws. The Puritan draws also: ``The
-Sword of the Lord and of Gideon!'' says he. 
+Sword of the Lord and of Gideon!'' says he.
 No verbiage there! But the very spirit of
 either man and of either party, in the few stern
 words, which haunt your mind. ``Bows and
@@ -692,18 +692,18 @@ of each, perhaps. I once met the widow
 of the man who, as a young signal midshipman,
 had taken Nelson's famous message from the
 Signal Yeoman and communicated it to the
-ship's company. The officers were impressed. 
-The men were not. ``Duty!'' they muttered. 
+ship's company. The officers were impressed.
+The men were not. ``Duty!'' they muttered.
 ``We've always done it. Why not?'' Anything
 in the least highfalutin' would depress,
 not exalt, a British company. It is the under
 statement which delights them. German troops
-can march to battle singing Luther's hymns. 
+can march to battle singing Luther's hymns.
 Frenchmen will work themselves into a frenzy
 by a song of glory and of Fatherland. Our
 martial poets need not trouble to imitate---or at
 least need not imagine that if they do so they
-will ever supply a want to the British soldier. 
+will ever supply a want to the British soldier.
 Our sailors working the heavy guns in South
 Africa sang: ``Here's another lump of sugar
 for the Bird.'' I saw a regiment go into action
@@ -737,7 +737,7 @@ true form---``Tramp, tramp, tramp,'' ``John
 Brown's Body,'' ``Marching through Georgia''
 ---all had a playful humour running through
 them. Only one exception do I know, and that
-is the most tremendous war-song I can recall. 
+is the most tremendous war-song I can recall.
 Even an outsider in time of peace can hardly
 read it without emotion. I mean, of course,
 Julia Ward Howe's ``War-Song of the Republic,''
@@ -767,7 +767,7 @@ Tory patriot, whose whole training had been
 to look upon Napoleon as a malignant Demon,
 do justice to such a theme? But the Europe of
 those days was full of material which he of all
-men could have drawn with a sympathetic hand. 
+men could have drawn with a sympathetic hand.
 What would we not give for a portrait of one of
 Murat's light-cavalrymen, or of a Grenadier
 of the Old Guard, drawn with the same bold
@@ -848,10 +848,10 @@ for example, we see in the National Portrait
 Gallery a man with a noble, olive-tinted, poetic
 face, and with a start read beneath it that it is
 the wicked Judge Jeffreys. Occasionally, however,
-as at Innsbruck, we are absolutely satisfied. 
+as at Innsbruck, we are absolutely satisfied.
 I have before me on the mantelpiece yonder a
 portrait of a painting which represents Queen
-Mary's Bothwell. Take it down and look at it. 
+Mary's Bothwell. Take it down and look at it.
 Mark the big head, fit to conceive large schemes;
 the strong animal face, made to captivate a sensitive,
 feminine woman; the brutally forceful
@@ -879,7 +879,7 @@ with more or less success Norman England, or
 medi<ae>val France, but to reconstruct a whole
 dead civilization in so plausible a way, with
 such dignity and such minuteness of detail, is,
-I should think, a most wonderful tour de force. 
+I should think, a most wonderful tour de force.
 His failing health showed itself before the end
 of the novel, but had the latter half equalled the
 first, and contained scenes of such humour as
@@ -922,7 +922,7 @@ was Walter Scott, and how high the service
 which he did for literature and for humanity.
 
   For that reason his life is good reading, and
-there it is on the same shelf as the novels. 
+there it is on the same shelf as the novels.
 Lockhart was, of course, his son-in-law and his
 admiring friend. The ideal biographer should
 be a perfectly impartial man, with a sympathetic
@@ -930,12 +930,12 @@ mind, but a stern determination to tell the absolute
 truth. One would like the frail, human
 side of a man as well as the other. I cannot
 believe that anyone in the world was ever quite
-so good as the subject of most of our biographies. 
+so good as the subject of most of our biographies.
 Surely these worthy people swore a little sometimes,
 or had a keen eye for a pretty face, or
 opened the second bottle when they would have
 done better to stop at the first, or did something
-to make us feel that they were men and brothers. 
+to make us feel that they were men and brothers.
 They need not go the length of the lady who
 began a biography of her deceased husband
 with the words---``D------ was a dirty man,''
@@ -1008,7 +1008,7 @@ over. It gives some support to the feeling
 which every writer of imaginative work must
 have, that his supreme work comes to him in
 some strange way from without, and that he is
-only the medium for placing it upon the paper. 
+only the medium for placing it upon the paper.
 The creative thought---the germ thought from
 which a larger growth is to come, flies through
 his brain like a bullet. He is surprised at his
@@ -1036,7 +1036,7 @@ weaken seriously the ties between the soul and
 the body.
 
   Look at the British poets of a century ago
-Chatterton, Burns, Shelley, Keats, Byron. 
+Chatterton, Burns, Shelley, Keats, Byron.
 Burns was the oldest of that brilliant band, yet
 Burns was only thirty-eight when he passed
 away, ``burned out,'' as his brother terribly
@@ -1051,14 +1051,14 @@ the novelists, especially of late years, have a
 deplorable record. They will end by being
 scheduled with the white-lead workers and other
 dangerous trades. Look at the really shocking
-case of the young Americans, for example. 
+case of the young Americans, for example.
 What a band of promising young writers have
 in a few years been swept away! There was
 the author of that admirable book, ``David
 Harum''; there was Frank Norris, a man who
 had in him, I think, the seeds of greatness more
 than almost any living writer. His ``Pit''
-seemed to me one of the finest American novels. 
+seemed to me one of the finest American novels.
 He also died a premature death. Then there
 was Stephen Crane---a man who had also done
 most brilliant work, and there was Harold
@@ -1109,7 +1109,7 @@ the truth on many occasions in order to conceal
 the fact that he was the author of the famous
 novels, but even intimate friends who met him
 day by day were not aware that he was the man
-about whom the whole of Europe was talking. 
+about whom the whole of Europe was talking.
 Even his wife was ignorant of his pecuniary
 liabilities until the crash of the Ballantyne firm
 told her for the first time that they were sharers
@@ -1129,7 +1129,7 @@ of literature. But they pass, these clouds, and
 all that is left is the memory of the supremely
 noble man, who would not be bent, but faced
 Fate to the last, and died in his tracks without a
-whimper. He sampled every human emotion. 
+whimper. He sampled every human emotion.
 Great was his joy and great his success, great
 was his downfall and bitter his grief. But of all
 the sons of men I don't think there are many
@@ -1148,7 +1148,7 @@ print, for that is the weak point of most of
 the cheap editions of English Classics which
 come now into the market. With subjects
 which are in the least archaic or abstruse you
-need good clear type to help you on your way. 
+need good clear type to help you on your way.
 The other is good neither for your eyes nor for
 your temper. Better pay a little more and have
 a book that is made for use.
@@ -1192,7 +1192,7 @@ was in his twenty-third and Johnson in his
 fifty-fourth year. The one was a keen young
 Scot with a mind which was reverent and impressionable.
 The other was a figure from a
-past generation with his fame already made. 
+past generation with his fame already made.
 From the moment of meeting the one was bound
 to exercise an absolute ascendency over the
 other which made unbiassed criticism far more
@@ -1205,7 +1205,7 @@ Macaulay has done, but it is not by chance
 that a man writes the best biography in the
 language. He had some great and rare literary
 qualities. One was a clear and vivid style, more
-flexible and Saxon than that of his great model. 
+flexible and Saxon than that of his great model.
 Another was a remarkable discretion which
 hardly once permitted a fault of taste in this
 whole enormous book where he must have had
@@ -1241,7 +1241,7 @@ a paragraph of it?---
 approaching to the gigantic, and grown unwieldy
 from corpulency. His countenance was
 naturally of the cast of an ancient statue, but
-somewhat disfigured by the scars of King's evil. 
+somewhat disfigured by the scars of King's evil.
 He was now in his sixty-fourth year and was
 become a little dull of hearing. His sight had
 always been somewhat weak, yet so much does
@@ -1281,7 +1281,7 @@ the Poets'' are but a succession of prefaces,
 and the  ``Ramblers'' of ephemeral essays.
 There is the monstrous drudgery of the Dictionary,
 a huge piece of spadework, a monument
-to industry, but inconceivable to genius. 
+to industry, but inconceivable to genius.
 ``London'' has a few vigorous lines, and the
 ``Journey to the Hebrides'' some spirited
 pages. This, with a number of political and
@@ -1300,7 +1300,7 @@ of sympathy and of imagination, who sees the
 other side of every question and understands
 what a little island the greatest human knowledge
 must be in the ocean of infinite possibilities
-which surround us. Look at the results. 
+which surround us. Look at the results.
 Did ever any single man, the very dullest of the
 race, stand convicted of so many incredible
 blunders? It recalls the remark of Bagehot,
@@ -1314,20 +1314,20 @@ the oracle answered: ``Swallows,'' said he,
 them conglobulate together by flying round and
 round, and then all in a heap throw themselves
 under water and lie in the bed of a river.''
-Boswell gravely dockets the information. 
+Boswell gravely dockets the information.
 However, if I remember right, even so sound
 a naturalist as White of Selborne had his doubts
 about the swallows. More wonderful are Johnson's
-misjudgments of his fellow-authors. 
+misjudgments of his fellow-authors.
 There, if anywhere, one would have expected
 to find a sense of proportion. Yet his conclusions
-would seem monstrous to a modern taste. 
+would seem monstrous to a modern taste.
 ``Shakespeare,'' he said, ``never wrote six
 consecutive good lines.'' He would only admit
 two good verses in Gray's exquisite ``Elegy
 written in a Country Churchyard,'' where it
 would take a very acid critic to find two bad
-ones. ``Tristram Shandy'' would not live. 
+ones. ``Tristram Shandy'' would not live.
 ``Hamlet'' was gabble. Swift's ``Gulliver's
 Travels'' was poor stuff, and he never wrote
 anything good except ``A Tale of a Tub.''
@@ -1357,7 +1357,7 @@ his convictions.
 some unreasoning aversion. In our more generous
 moments we are not proud of it. But
 consider those of Johnson! When they were
-all eliminated there was not so very much left. 
+all eliminated there was not so very much left.
 He hated Whigs. He disliked Scotsmen. He
 detested Nonconformists (a young lady who
 joined them was ``an odious wench''). He
@@ -1452,9 +1452,9 @@ and all that he had read he remembered,
 not merely in the vague, general way in which
 we remember what we read, but with every
 particular of place and date. If it were poetry,
-he could quote it by the page, Latin or English. 
+he could quote it by the page, Latin or English.
 Such a memory has its enormous advantage,
-but it carries with it its corresponding defect. 
+but it carries with it its corresponding defect.
 With the mind so crammed with other people's
 goods, how can you have room for any fresh
 manufactures of your own? A great memory
@@ -1483,7 +1483,7 @@ shows how near the unconscious sage was to
 the edge of that precipice and how little his
 learning availed him in discerning it.
 
-  He would have been a great lawyer or divine. 
+  He would have been a great lawyer or divine.
 Nothing, one would think, could have kept him
 from Canterbury or from the Woolsack. In
 either case his memory, his learning, his dignity,
@@ -1502,7 +1502,7 @@ show.
 
   Above all, he really was a very kind-hearted
 man, and that must count for much. His was
-a large charity, and it came from a small purse. 
+a large charity, and it came from a small purse.
 The rooms of his house became a sort of harbour
 of refuge in which several strange battered hulks
 found their last moorings. There were the blind
@@ -1523,13 +1523,13 @@ Club.
   There is always to me something of interest
 in the view which a great man takes of old age
 and death. It is the practical test of how far the
-philosophy of his life has been a sound one. 
+philosophy of his life has been a sound one.
 Hume saw death afar, and met it with unostentatious
 calm. Johnson's mind flinched from
 that dread opponent. His letters and his talk
-during his latter years are one long cry of fear. 
+during his latter years are one long cry of fear.
 It was not cowardice, for physically he was one
-of the most stout-hearted men that ever lived. 
+of the most stout-hearted men that ever lived.
 There were no limits to his courage. It was
 spiritual diffidence, coupled with an actual belief
 in the possibilities of the other world, which
@@ -1559,7 +1559,7 @@ Next to my Johnsoniana are my Gibbons
 ---two editions, if you please, for my old
 complete one being somewhat crabbed in the
 print I could not resist getting a set of Bury's
-new six-volume presentment of the History. 
+new six-volume presentment of the History.
 In reading that book you don't want to be handicapped
 in any way. You want fair type, clear
 paper, and a light volume. You are not to read
@@ -1589,7 +1589,7 @@ and accurate, its standpoint is broadly philosophic,
 its style dignified. With our more
 elastic methods we may consider his manner
 pompous, but he lived in an age when Johnson's
-turgid periods had corrupted our literature. 
+turgid periods had corrupted our literature.
 For my own part I do not dislike Gibbon's
 pomposity. A paragraph should be measured
 and sonorous if it ventures to describe the
@@ -1613,7 +1613,7 @@ the Emperors with their strange alternations of
 greatness and profligacy, descending occasionally
 to criminal lunacy. When the Empire
 went rotten it began at the top, and it took centuries
-to corrupt the man behind the spear. 
+to corrupt the man behind the spear.
 Neither did a religion of peace affect him much,
 for, in spite of the adoption of Christianity,
 Roman history was still written in blood. The
@@ -1637,7 +1637,7 @@ the Roman Empire, but it was the terrified
 fugitives, who, like a drove of stampeded cattle,
 blundered over everything which barred their
 way. It was a wild, dramatic time---the time of
-the formation of the modern races of Europe. 
+the formation of the modern races of Europe.
 The nations came whirling in out of the north
 and east like dust-storms, and amid the seeming
 chaos each was blended with its neighbour so as
@@ -1680,13 +1680,13 @@ recommended.
   When all is so interesting it is hard to pick
 examples, but to me there has always seemed to
 be something peculiarly impressive in the first
-entrance of a new race on to the stage of history. 
+entrance of a new race on to the stage of history.
 It has something of the glamour which hangs
 round the early youth of a great man. You
 remember how the Russians made their _d<e'>but_---
 came down the great rivers and appeared at the
 Bosphorus in two hundred canoes, from which
-they endeavoured to board the Imperial galleys. 
+they endeavoured to board the Imperial galleys.
 Singular that a thousand years have passed and
 that the ambition of the Russians is still to
 carry out the task at which their skin-clad
@@ -1707,7 +1707,7 @@ which was to be the stronghold of the one and
 the ambition of the other for so many centuries.
 
   And then, even more interesting than the
-races which arrive are those that disappear. 
+races which arrive are those that disappear.
 There is something there which appeals most
 powerfully to the imagination. Take, for example,
 the fate of those Vandals who conquered
@@ -1715,7 +1715,7 @@ the north of Africa. They were a German
 tribe, blue-eyed and flaxen-haired, from somewhere
 in the Elbe country. Suddenly they,
 too, were seized with the strange wandering
-madness which was epidemic at the time. 
+madness which was epidemic at the time.
 Away they went on the line of least resistance,
 which is always from north to south and from
 east to west. South-west was the course of
@@ -1751,7 +1751,7 @@ seemed to me to be one of the most romantic
 questions in history---the more so, perhaps, as I
 have strained my eyes to see across the ice-floes
 the Greenland coast at the point (or near it)
-where the old ``Eyrbyggia'' must have stood. 
+where the old ``Eyrbyggia'' must have stood.
 That was the Scandinavian city, founded by
 colonists from Iceland, which grew to be a considerable
 place, so much so that they sent to
@@ -1795,7 +1795,7 @@ work for one who cares anything for
 Gibbon.
 
   And on the whole this is justified by the
-facts. Some men are greater than their work. 
+facts. Some men are greater than their work.
 Their work only represents one facet of their
 character, and there may be a dozen others,
 all remarkable, and uniting to make one complex
@@ -1881,7 +1881,7 @@ boyhood.
 and fevers, by opposite tendencies to a consumptive
 and dropsical habit, by a contraction
 of my nerves, a fistula in my eye, and the bite
-of a dog, most vehemently suspected of madness. 
+of a dog, most vehemently suspected of madness.
 Every practitioner was called to my aid, the fees
 of the doctors were swelled by the bills of the
 apothecaries and surgeons. There was a time
@@ -1924,12 +1924,12 @@ saw the enemy, which is perhaps as well for
 them. Even Gibbon himself pokes fun at
 them; but after three years under canvas it is
 probable that his men had more cause to smile
-at their book-worm captain than he at his men. 
+at their book-worm captain than he at his men.
 His hand closed much more readily on a pen-handle
 than on a sword-hilt. In his lament,
 one of the items is that his colonel's example
 encouraged the daily practice of hard and even
-excessive drinking, which gave him the gout. 
+excessive drinking, which gave him the gout.
 ``The loss of so many busy and idle hours were
 not compensated for by any elegant pleasure,''
 says he; ``and my temper was insensibly soured
@@ -1942,8 +1942,8 @@ have been a curious one. He admits,
 however, that he found consolations as well as
 hardships in his spell of soldiering. It made
 him an Englishman once more, it improved his
-health, it changed the current of his thoughts. 
-It was even useful to him as an historian. 
+health, it changed the current of his thoughts.
+It was even useful to him as an historian.
 In a celebrated and characteristic sentence,
 he says, ``The discipline and evolutions of
 a modern battalion gave me a clearer notion
@@ -1963,7 +1963,7 @@ tact, discretion, and frankness which make an
 almost impossible blend. Gibbon, in spite
 of his foreign education, was a very typical
 Englishman in many ways, with the reticence,
-self-respect, and self-consciousness of the race. 
+self-respect, and self-consciousness of the race.
 No British autobiography has ever been frank,
 and consequently no British autobiography has
 ever been good. Trollope's, perhaps, is as
@@ -1978,7 +1978,7 @@ enough to be ashamed of it and to suppress its
 publication.
 
   There on the left of Gibbon is my fine
-edition (Lord Braybrooke's) of Pepys' Diary. 
+edition (Lord Braybrooke's) of Pepys' Diary.
 That is, in truth, the greatest autobiography in
 our language, and yet it was not deliberately
 written as such. When Mr. Pepys jotted down
@@ -2066,7 +2066,7 @@ of his own existence to single him out from all
 the countless sons of men? In such a case he
 would assuredly have left directions in somebody's
 care with a reference to it in the deed by
-which he bequeathed his library to Cambridge. 
+which he bequeathed his library to Cambridge.
 In that way he could have ensured having his
 Diary read at any date he chose to name after
 his death. But no allusion to it was left, and if
@@ -2135,12 +2135,12 @@ land of Cornwall. That long peninsula extending
 out into the ocean has caught all sorts
 of strange floating things, and has held them
 there in isolation until they have woven themselves
-into the texture of the Cornish race. 
+into the texture of the Cornish race.
 What is this strange strain which lurks down
 yonder and every now and then throws up a
 great man with singular un-English ways and
 features for all the world to marvel at? It
-is not Celtic, nor is it the dark old Iberian. 
+is not Celtic, nor is it the dark old Iberian.
 Further and deeper lie the springs. Is it not
 Semitic, Ph<oe>nician, the roving men of Tyre,
 with noble Southern faces and Oriental imaginations,
@@ -2151,11 +2151,11 @@ shores of the Northern Sea?
   Whence came the wonderful face and great
 personality of Henry Irving? How strong,
 how beautiful, how un-Saxon it was! I only
-know that his mother was a Cornish woman. 
+know that his mother was a Cornish woman.
 Whence came the intense glowing imagination
 of the Bront<e:>s---so unlike the Miss-Austen-like
 calm of their predecessors? Again, I only
-know that their mother was a Cornish woman. 
+know that their mother was a Cornish woman.
 Whence came this huge elfin creature, George
 Borrow, with his eagle head perched on his
 rocklike shoulders, brown-faced, white-headed,
@@ -2187,8 +2187,8 @@ claim upon the little span of mortal years. Because
 he asks too much one is inclined to give
 him nothing at all. Dumas, too! I stand on
 the edge of him, and look at that huge crop, and
-content myself with a sample here and there. 
-But no one could raise this objection to Borrow. 
+content myself with a sample here and there.
+But no one could raise this objection to Borrow.
 A month's reading---even for a leisurely reader
 ---will master all that he has written. There
 are ``Lavengro,'' ``The Bible in Spain,'' ``Romany
@@ -2202,12 +2202,12 @@ like them in the language.
 obstinate, inclined to be sulky, as wayward
 as a man could be. So far his catalogue
 of qualities does not seem to pick him as a
-winner. But he had one great and rare gift. 
+winner. But he had one great and rare gift.
 He preserved through all his days a sense of
 the great wonder and mystery of life---the child
 sense which is so quickly dulled. Not only did
 he retain it himself, but he was word-master
-enough to make other people hark back to it also. 
+enough to make other people hark back to it also.
 As he writes you cannot help seeing through
 his eyes, and nothing which his eyes saw or his
 ear heard was ever dull or commonplace. It
@@ -2215,7 +2215,7 @@ was all strange, mystic, with some deeper meaning
 struggling always to the light. If he
 chronicled his conversation with a washer-woman
 there was something arresting in the
-words he said, something singular in her reply. 
+words he said, something singular in her reply.
 If he met a man in a public-house one felt,
 after reading his account, that one would wish
 to know more of that man. If he approached
@@ -2258,7 +2258,7 @@ and Defoe. And, observe the art of it,
 under all the simplicity---notice, for example,
 the curious weird effect produced by the studied
 repetition of the word ``dingle'' coming ever
-round and round like the master-note in a chime. 
+round and round like the master-note in a chime.
 Or take the passage about Britain towards the
 end of ``The Bible in Spain.'' I hate quoting
 from these masterpieces, if only for the very
@@ -2291,13 +2291,13 @@ seen vanity and divined lies; who have daubed
 thy wall with untempered mortar, that it may
 fall; who see visions of peace where there is no
 peace; who have strengthened the hands of the
-wicked, and made the heart of the righteous sad. 
+wicked, and made the heart of the righteous sad.
 Oh, do this, and fear not the result, for either
 shall thy end be a majestic and an enviable
 one; or God shall perpetuate thy reign upon
 the waters, thou Old Queen!''
 
-  Or take the fight with the Flaming Tinman. 
+  Or take the fight with the Flaming Tinman.
 It's too long for quotation---but read it, read
 every word of it. Where in the language can
 you find a stronger, more condensed and more
@@ -2332,7 +2332,7 @@ wonderfully like that of a lion. There is Belcher,
 the younger, not the mighty one, who is
 gone to his place, but the Teucer Belcher, the
 most scientific pugilist that ever entered a ring,
-only wanting strength to be I won't say what. 
+only wanting strength to be I won't say what.
 He appears to walk before me now, as he did
 that evening, with his white hat, white great
 coat, thin genteel figure, springy step, and keen
@@ -2359,7 +2359,7 @@ Sam the Jew. There was Black Richmond---
 no, he was not there, but I knew him well; he
 was the most dangerous of blacks, even with a
 broken thigh. There was Purcell, who could
-never conquer until all seemed over with him. 
+never conquer until all seemed over with him.
 There was---what! shall I name thee last?
 Ay, why not? I believe that thou art the last
 of all that strong family still above the sod,
@@ -2370,7 +2370,7 @@ please thee to be called, Spring or Winter!
 Hail to thee, six-foot Englishman of the brown
 eye, worthy to have carried a six-foot
 bow at Flodden, where England's yeomen triumphed
-over Scotland's King, his clans and chivalry. 
+over Scotland's King, his clans and chivalry.
 Hail to thee, last of English bruisers, after all the
 many victories which thou hast achieved---true
 English victories, unbought by yellow gold.''
@@ -2383,7 +2383,7 @@ our natures. In a world which is armed to the
 teeth it is the last and only guarantee of our
 future. Neither our numbers, nor our wealth,
 nor the waters which guard us can hold us safe
-if once the old iron passes from our spirit. 
+if once the old iron passes from our spirit.
 Barbarous, perhaps----but there are possibilities
 for barbarism, and none in this wide world for
 effeminacy.
@@ -2402,7 +2402,7 @@ Tennyson were all in their glorious prime, looks
 fixedly past them at some obscure Dane or forgotten
 Welshman. The reason was, I expect,
 that his proud soul was bitterly wounded by
-his own early failures and slow recognition. 
+his own early failures and slow recognition.
 He knew himself to be a chief in the clan, and
 when the clan heeded him not he withdrew
 in haughty disdain. Look at his proud, sensitive
@@ -2422,12 +2422,12 @@ off with a stiff left arm. The amateur's
 second in the story, an old prize-fighter, shouts
 some advice to him as to how to deal with the
 situation. ``That's right. By ---- he's got
-him!'' yelled the stricken man in the bed. 
+him!'' yelled the stricken man in the bed.
 Who cares for critics after that?
 
   You can see my own devotion to the ring in
 that trio of brown volumes which stand, appropriately
-enough, upon the flank of Borrow. 
+enough, upon the flank of Borrow.
 They are the three volumes of ``Pugilistica,''
 given me years ago by my old friend, Robert
 Barr, a mine in which you can never pick for
@@ -2435,10 +2435,10 @@ half an hour without striking it rich. Alas!
 for the horrible slang of those days, the vapid
 witless Corinthian talk, with its ogles and its
 fogles, its pointless jokes, its maddening habit
-of italicizing a word or two in every sentence. 
+of italicizing a word or two in every sentence.
 Even these stern and desperate encounters, fit
 sports for the men of Albuera and Waterloo,
-become dull and vulgar, in that dreadful jargon. 
+become dull and vulgar, in that dreadful jargon.
 You have to tum to Hazlitt's account of the
 encounter between the Gasman and the Bristol
 Bull, to feel the savage strength of it all. It is
@@ -2508,7 +2508,7 @@ this passage?----
 and carries his blows truly in the line; he steps
 not back distrusting of himself, to stop a blow,
 and puddle in the return, with an arm unaided
-by his body, producing but fly-flap blows. 
+by his body, producing but fly-flap blows.
 No! Broughton steps boldly and firmly in,
 bids a welcome to the coming blow; receives
 it with his guardian arm; then, with a general
@@ -2577,7 +2577,7 @@ to it was the singular and mournful fate which
 befell Simon Byrne, the brave Irishman, who
 had the misfortune to cause the death of his
 antagonist, Angus Mackay, and afterwards met
-his own end at the hands of Deaf Burke. 
+his own end at the hands of Deaf Burke.
 Neither Byrne nor Mackay could, however, be
 said to be boxers of the very first rank. It certainly
 would appear, if we may argue from the
@@ -2637,7 +2637,7 @@ merit behind them, with the possible
 exception of Wandering Willie's Tale in ``Red
 Gauntlet.'' On the other hand, men who have
 been very great in the short story, Stevenson,
-Poe, and Bret Harte, have written no great book. 
+Poe, and Bret Harte, have written no great book.
 The champion sprinter is seldom a five-miler as
 well.
 
@@ -2705,7 +2705,7 @@ worthy of a place among my immortals. They
 are, it is true, so tinged with Dickens as to be
 almost parodies of the master, but they have a
 symmetry and satisfying completeness as short
-stories to which Dickens himself never attained. 
+stories to which Dickens himself never attained.
 The man who can read those two stories without
 a gulp in the throat is not a man I envy.
 
@@ -2720,7 +2720,7 @@ whether you take it as a vivid narrative or as
 a wonderfully deep and true allegory, is a
 supremely fine bit of work. The other story
 of my choice would be ``The Pavilion on the
-Links''---the very model of dramatic narrative. 
+Links''---the very model of dramatic narrative.
 That story stamped itself so clearly on my brain
 when I read it in _Cornhill_ that when I came
 across it again many years afterwards in volume
@@ -2766,7 +2766,7 @@ that any young writer could follow. There is
 digression, that most deadly fault in the short
 narrative; there is incoherence, there is want
 of proportion which makes the story stand still
-for pages and bound forward in a few sentences. 
+for pages and bound forward in a few sentences.
 But genius overrides all that, just as the great
 cricketer hooks the off ball and glides the
 straight one to leg. There is a dash, an exuberance,
@@ -2777,9 +2777,9 @@ did not contain at least two representatives of
 Kipling.
 
   And now whom? Nathaniel Hawthorne
-never appealed in the highest degree to me. 
+never appealed in the highest degree to me.
 The fault, I am sure, is my own, but I always
-seemed to crave stronger fare than he gave me. 
+seemed to crave stronger fare than he gave me.
 It was too subtle, too elusive, for effect. Indeed,
 I have been more affected by some of the
 short work of his son Julian, though I can
@@ -2809,7 +2809,7 @@ of the kind which I have ever read.
 at that old green cover of Poe. I am sure that
 if I had to name the few books which have
 really influenced my own life I should have to
-put this one second only to Macaulay's Essays. 
+put this one second only to Macaulay's Essays.
 I read it young when my mind was plastic. It
 stimulated my imagination and set before me a
 supreme example of dignity and force in the
@@ -2894,7 +2894,7 @@ brought in a savage hound.
   Of course, the genesis of the thing is clear
 enough. He had chanced to visit the inn, and
 had been impressed as I had been by the same
-train of thought. All that is quite intelligible. 
+train of thought. All that is quite intelligible.
 But what is perfectly marvellous is that in that
 short journey I should have chanced to buy the
 one book in all the world which would prevent
@@ -2905,7 +2905,7 @@ of coincidence can cover the facts. It is
 one of several incidents in my life which have
 convinced me of spiritual interposition---of the
 promptings of some beneficent force outside
-ourselves, which tries to help us where it can. 
+ourselves, which tries to help us where it can.
 The old Catholic doctrine of the Guardian
 Angel is not only a beautiful one, but has in it,
 I believe, a real basis of truth.
@@ -2927,7 +2927,7 @@ as you could wish for. And the Frenchman
 has, of course, far the broader range. He
 has a keen sense of humour, breaking out beyond
 all decorum in some of his stories, but
-giving a pleasant sub-flavour to all of them. 
+giving a pleasant sub-flavour to all of them.
 And yet, when all is said, who can doubt that
 the austere and dreadful American is far the
 greater and more original mind of the two?
@@ -2994,7 +2994,7 @@ the absolutely perfect Queen
 Anne atmosphere. There was never an historical
 novel written by a man who knew his
 period so thoroughly. But, great as these virtues
-are, they are not the essential in a novel. 
+are, they are not the essential in a novel.
 The essential in a novel is interest, though Addison
 unkindly remarked that the real essential
 was that the pastrycooks should never run short
@@ -3014,13 +3014,13 @@ is the more perfect.
   No, if I had three votes, I should plump
 them all for ``The Cloister and the Hearth,''
 as being our greatest historical novel, and, indeed,
-as being our greatest novel of any sort. 
+as being our greatest novel of any sort.
 I think I may claim to have read most of the
 more famous foreign novels of last century,
 and (speaking only for myself and within the
 limits of my reading) I have been more impressed
 by that book of Reade's and by Tolstoi's
-``Peace and War'' than by any others. 
+``Peace and War'' than by any others.
 They seem to me to stand at the very top of the
 century's fiction. There is a certain resemblance
 in the two---the sense of space, the number
@@ -3045,7 +3045,7 @@ South Germany, the state of Italy, the artist-life
 of Rome, the monastic institutions on the
 eve of the Reformation. And all this between
 the covers of one book, so naturally introduced,
-too, and told with such vividness and spirit. 
+too, and told with such vividness and spirit.
 Apart from the huge scope of it, the mere study
 of Gerard's own nature, his rise, his fall, his
 regeneration, the whole pitiable tragedy at the
@@ -3083,11 +3083,11 @@ very first rank of our novelists.
 which I recognize nowhere else. He so absolutely
 loves his own heroes and heroines, while
 he so cordially detests his own villains, that he
-sweeps your emotions along with his own. 
+sweeps your emotions along with his own.
 No one has ever spoken warmly enough of
-the humanity and the lovability of his women. 
+the humanity and the lovability of his women.
 It is a rare gift---very rare for a man---this
-power of drawing a human and delightful girl. 
+power of drawing a human and delightful girl.
 If there is a better one in nineteenth-century
 fiction than Julia Dodd I have never had the
 pleasure of meeting her. A man who could
@@ -3130,7 +3130,7 @@ Borrow snarl so churlishly at Scott? One
 would have thought that noble spirit and romantic
 fancy would have charmed the huge
 vagrant, and yet there is no word too bitter
-for the younger man to use towards the elder. 
+for the younger man to use towards the elder.
 The fact is that Borrow had one dangerous
 virus in him---a poison which distorts the
 whole vision---for he was a bigoted sectarian in
@@ -3233,7 +3233,7 @@ the same effect, though with a greater appreciation
 of its inherent bestiality. That merit, a
 gross primitive merit, he has in a high degree,
 but in no other respect can he challenge comparison
-with either Fielding or Richardson. 
+with either Fielding or Richardson.
 His view of life is far more limited, his characters
 less varied, his incidents less distinctive,
 and his thoughts less deep. Assuredly I, for
@@ -3249,10 +3249,10 @@ compare them with each other.
 subtlest of all, which each of them had in a
 supreme degree. Each could draw the most
 delightful women---the most perfect women,
-I think, in the whole range of our literature. 
+I think, in the whole range of our literature.
 If the eighteenth-century women were like
 that, then the eighteenth-century men got a
-great deal more than they ever deserved. 
+great deal more than they ever deserved.
 They had such a charming little dignity of
 their own, such good sense, and yet such
 dear, pretty, dainty ways, so human and so
@@ -3415,7 +3415,7 @@ least he is the master.
 towards Richardson, though I dare say I am
 one in a hundred in thinking so. First of all,
 beyond anything I may have already urged, he
-had the supreme credit of having been the first. 
+had the supreme credit of having been the first.
 Surely the originator should have a higher place
 than the imitator, even if in imitating he should
 also improve and amplify. It is Richardson
@@ -3423,7 +3423,7 @@ and not Fielding who is the father of the
 English novel, the man who first saw that without
 romantic gallantry, and without bizarre
 imaginings, enthralling stories may be made
-from everyday life, told in everyday language. 
+from everyday life, told in everyday language.
 This was his great new departure. So entirely
 was Fielding his imitator, or rather perhaps
 his parodist, that with supreme audacity (some
@@ -3449,7 +3449,7 @@ the depicting of it, were in some sort the hallmark
 of the true artist. It is not difficult to
 handle or depict. On the contrary, it is so easy,
 and so essentially dramatic in many of its forms,
-that the temptation to employ it is ever present. 
+that the temptation to employ it is ever present.
 It is the easiest and cheapest of all methods of
 creating a spurious effect. The difficulty does
 not lie in doing it. The difficulty lies in avoiding
@@ -3460,7 +3460,7 @@ write for a woman's eyes that which he would
 be justly knocked down for having said in a
 woman's ears. But ``you must draw the world
 as it is.'' Why must you? Surely it is just in
-selection and restraint that the artist is shown. 
+selection and restraint that the artist is shown.
 It is true that in a coarser age great writers
 heeded no restrictions, but life itself had fewer
 restrictions then. We are of our own age, and
@@ -3555,7 +3555,7 @@ in poetry, in fiction, and in the drama the latter
 has proved himself far the greater man. But
 here is an object-lesson of how the facts of life
 may be treated without offence. Nothing is
-shirked. It is all faced and duly recorded. 
+shirked. It is all faced and duly recorded.
 Yet if I wished to set before the sensitive mind
 of a young girl a book which would prepare her
 for life without in any way contaminating her
@@ -3563,7 +3563,7 @@ delicacy of feeling, there is no book which I
 should choose so readily as ``The Vicar of
 Wakefield.''
 
-  So much for the eighteenth-century novelists. 
+  So much for the eighteenth-century novelists.
 They have a shelf of their own in the case, and
 a corner of their own in my brain. For years
 you may never think of them, and then suddenly
@@ -3583,7 +3583,7 @@ authors were convened to determine which of
 their fellow-craftsmen they considered the
 greatest and the most stimulating to their own
 minds, I am equally confident that Mr. Meredith
-would have a vast preponderance of votes. 
+would have a vast preponderance of votes.
 Indeed, his only conceivable rival would be Mr.
 Hardy. It becomes an interesting study, therefore,
 why there should be such a divergence of
@@ -3673,7 +3673,7 @@ is slow to form, but it sets true at last. I am
 sure that if the critics were to unite to praise a
 bad book or to damn a good one they could
 (and continually do) have a five-year influence,
-but it would in no wise affect the final result. 
+but it would in no wise affect the final result.
 Sheridan said that if all the fleas in his bed had
 been unanimous, they could have pushed him
 out of it. I do not think that any unanimity
@@ -3683,7 +3683,7 @@ literature.
   Among the minor excellences of ``Richard
 Feverel''---excuse the prolixity of an enthusiast---
 are the scattered aphorisms which are
-worthy of a place among our British proverbs. 
+worthy of a place among our British proverbs.
 What could be more exquisite than this, ``Who
 rises from prayer a better man his prayer is
 answered''; or this, ``Expediency is man's
@@ -3706,7 +3706,7 @@ ones, ``Sandra Belloni,'' and ``Vittoria''; there
 is ``Rhoda Fleming,'' which carried Stevenson
 off his critical feet; ``Beauchamp's Career,'' too,
 dealing with obsolete politics. No great writer
-should spend himself upon a temporary theme. 
+should spend himself upon a temporary theme.
 It is like the beauty who is painted in some
 passing fashion of gown. She tends to become
 obsolete along with her frame. Here also is
@@ -3714,7 +3714,7 @@ the dainty ``Diana,'' the egoist with immortal
 Willoughby Pattern, eternal type of masculine
 selfishness, and ``Harry Richmond,'' the first
 chapters of which are, in my opinion, among the
-finest pieces of narrative prose in the language. 
+finest pieces of narrative prose in the language.
 That great mind would have worked in any form
 which his age had favoured. He is a novelist
 by accident. As an Elizabethan he would have
@@ -3736,13 +3736,13 @@ run down this next row, then, and I will tell
 you a few things which may be of interest,
 though they will be dull enough if you have not
 been born with that love of books in your heart
-which is among the choicest gifts of the gods. 
+which is among the choicest gifts of the gods.
 If that is wanting, then one might as well play
 music to the deaf, or walk round the Academy
 with the colour-blind, as appeal to the book-sense
 of an unfortunate who has it not.
 
-  There is this old brown volume in the corner. 
+  There is this old brown volume in the corner.
 How it got there I cannot imagine, for it is one
 of those which I bought for threepence out of
 the remnant box in Edinburgh, and its weather-beaten
@@ -3755,9 +3755,9 @@ bullet-proof a cover of scaling leather. Now
 open the fly-leaf ``_Ex libris_ Guilielmi Whyte.
 1672'' in faded yellow ink. I wonder who
 William Whyte may have been, and what he did
-upon earth in the reign of the merry monarch. 
+upon earth in the reign of the merry monarch.
 A pragmatical seventeenth-century lawyer, I
-should judge, by that hard, angular writing. 
+should judge, by that hard, angular writing.
 The date of issue is 1642, so it was printed just
 about the time when the Pilgrim Fathers were
 settling down into their new American home,
@@ -3797,7 +3797,7 @@ is the thinnest of veneers.
   Now you see that whole row of books which
 takes you at one sweep nearly across the shelf?
 I am rather proud of those, for they are my
-collection of Napoleonic military memoirs. 
+collection of Napoleonic military memoirs.
 There is a story told of an illiterate millionaire
 who gave a wholesale dealer an order for a copy
 of all books in any language treating of any
@@ -3807,7 +3807,7 @@ taken aback, however, when in a few
 weeks he received a message from the dealer
 that he had got 40,000 volumes, and awaited
 instructions as to whether he should send them
-on as an instalment, or wait for a complete set. 
+on as an instalment, or wait for a complete set.
 The figures may not be exact, but at least they
 bring home the impossibility of exhausting the
 subject, and the danger of losing one's self for
@@ -3851,7 +3851,7 @@ veins. And they were not exhausted, for the
 very last fight which the French fought was the
 finest of all. Proud as we are of our infantry at
 Waterloo, it was really with the French cavalry
-that the greenest laurels of that great epic rested. 
+that the greenest laurels of that great epic rested.
 They got the better of our own cavalry, they
 took our guns again and again, they swept a
 large portion of our allies from the field, and
@@ -3866,9 +3866,9 @@ horsemen.
 
   It must be admitted that, looking back upon
 history, we have not always been good allies,
-nor yet generous co-partners in the battlefield. 
+nor yet generous co-partners in the battlefield.
 The first is the fault of our politics, where one
-party rejoices to break what the other has bound. 
+party rejoices to break what the other has bound.
 The makers of the Treaty are staunch enough,
 as the Tories were under Pitt and Castlereagh,
 or the Whigs at the time of Queen Anne, but
@@ -3903,7 +3903,7 @@ Portuguese allies also! They trained into
 magnificent troops, and one of Wellington's
 earnest desires was to have ten thousand of them
 for his Waterloo campaign. It was a Portuguese
-who first topped the rampart of Badajos. 
+who first topped the rampart of Badajos.
 They have never had their due credit, nor have
 the Spaniards either, for, though often defeated,
 it was their unconquerable pertinacity
@@ -3922,7 +3922,7 @@ Eylau---I think it was Eylau---how a cannon-ball,
 striking the top of his helmet, paralyzed
 him by the concussion of his spine; and how,
 on a Russian officer running forward to cut him
-down, his horse bit the man's face nearly off. 
+down, his horse bit the man's face nearly off.
 This was the famous charger which savaged
 everything until Marbot, having bought it for
 next to nothing, cured it by thrusting a boiling
@@ -3961,7 +3961,7 @@ gallant Chevillet, trumpeter of Chasseurs, with
 his matter-of-fact account of all that he saw,
 where the daily ``combat'' is sandwiched in
 betwixt the real business of the day, which was
-foraging for his frugal breakfast and supper. 
+foraging for his frugal breakfast and supper.
 There is no better writing, and no easier reading,
 than the records of these men of action.
 
@@ -4026,7 +4026,7 @@ other France is engaged in strangling and
 throwing to earth a curious fish-tailed creature,
 which stands for perfidious Albion. ``Frapp<e'>
 <a`> Londres'' is printed on one part of it, and
-``La Descente dans Angleterre'' upon another. 
+``La Descente dans Angleterre'' upon another.
 Struck to commemorate a conquest, it remains
 now as a souvenir of a fiasco. But it was a
 close call.
@@ -4061,7 +4061,7 @@ whole, they are a credit to the writers, and give
 the impression of a noble and chivalrous set of
 men. Whether they were all addressed to the
 right people is another matter, and therein lay
-the poisoned sting of this most un-British affair. 
+the poisoned sting of this most un-British affair.
 As to the monstrous things which were done
 upon the other side, remember the arrest of all
 the poor British tourists and commercials who
@@ -4073,7 +4073,7 @@ grip fell upon them, and they rejoined their
 families in 1814. He must have had a heart of
 adamant and a will of iron. Look at his conduct
 over the naval prisoners. The natural
-proceeding would have been to exchange them. 
+proceeding would have been to exchange them.
 For some reason he did not think it good policy
 to do so. All representations from the British
 Government were set aside, save in the case
@@ -4101,7 +4101,7 @@ doubtless, many a wistful look was turned in
 the direction of lovely France. Much had the
 poor inmates to endure, and much to complain
 of, to the disgrace of England be it said---of
-England, in general so kind and bountiful. 
+England, in general so kind and bountiful.
 Rations of carrion meat, and bread from which
 I have seen the very hounds occasionally turn
 away, were unworthy entertainment even for
@@ -4131,7 +4131,7 @@ of `Vive l'Empereur!' ''
 in captivity. Here is another which is worth
 preserving of the bearing of his veterans when
 wounded on the field of battle. It is from
-Mercer's recollections of the Battle of Waterloo. 
+Mercer's recollections of the Battle of Waterloo.
 Mercer had spent the day firing case into the
 French cavalry at ranges from fifty to two hundred
 yards, losing two-thirds of his own battery
@@ -4142,7 +4142,7 @@ some of his own grim handiwork.
 and was retracing my steps up the hill when my
 attention was called to a group of wounded
 Frenchmen by the calm, dignified, and soldier-like
-oration addressed by one of them to the rest. 
+oration addressed by one of them to the rest.
 I cannot, like Livy, compose a fine harangue for
 my hero, and, of course, I could not retain the
 precise words, but the import of them was to
@@ -4163,7 +4163,7 @@ and no doubt had fought in many a field. One
 hand was flourished in the air as he spoke, the
 other, severed at the wrist, lay on the earth
 beside him; one ball (case-shot, probably) had
-entered his body, another had broken his leg. 
+entered his body, another had broken his leg.
 His suffering, after a night of exposure so
 mangled, must have been great; yet he betrayed
 it not. His bearing was that of a Roman, or
@@ -4192,7 +4192,7 @@ account been given of one's enemy. Indeed,
 Napier seems to me to push it too far, for his
 admiration appears to extend not only to the
 gallant soldiers who opposed him, but to the
-character and to the ultimate aims of their leader. 
+character and to the ultimate aims of their leader.
 He was, in fact, a political follower of Charles
 James Fox, and his heart seems to have been
 with the enemy even at the moment when he led
@@ -4212,7 +4212,7 @@ are passages in that work---the one which
 describes the breach of Badajos, that of the
 charge of the Fusiliers at Albuera, and that
 of the French advance at Fuentes d'Onoro---
-which once read haunt the mind for ever. 
+which once read haunt the mind for ever.
 The book is a worthy monument of a
 great national epic. Alas! for the pregnant
 sentence with which it closes, ``So ended
@@ -4276,7 +4276,7 @@ that it was the last thing which he invited
 or desired. ``Don't be a damned fool,
 sir!'' was his exhortation to the good citizen
 who had paid him a compliment. It was a
-curious, callous nature, brusque and limited. 
+curious, callous nature, brusque and limited.
 The hardest huntsman learns to love his hounds,
 but he showed no affection and a good deal of
 contempt for the men who had been his instruments.
@@ -4288,7 +4288,7 @@ orders were full of undeserved reproaches at a
 time when the most lavish praise could hardly
 have met the real deserts of his army. When
 the wars were done he saw little, save in his
-official capacity, of his old comrades-in-arms. 
+official capacity, of his old comrades-in-arms.
 And yet, from major-general to drummer-boy,
 he was the man whom they would all have
 elected to serve under, had the work to be
@@ -4310,7 +4310,7 @@ Bill, and everything upon which our modern
 life is founded. He could never be brought
 to see that a pyramid should stand on its base
 and not on its apex, and that the larger the
-pyramid, the broader should be the base. 
+pyramid, the broader should be the base.
 Even in military affairs he was averse from
 every change, and I know of no improvements
 which came from his initiative during all those
@@ -4357,7 +4357,7 @@ humblest letter unanswered, his courage which
 never flinched, his tenacity which never faltered,
 his sense of duty which made his life one long
 unselfish effort on behalf of what seemed to
-him to be the highest interest of the State. 
+him to be the highest interest of the State.
 Go down and stand by the huge granite sarcophagus
 in the dim light of the crypt of St.
 Paul's, and in the hush of that austere spot,
@@ -4421,11 +4421,11 @@ was fought, the whole scheme of military
 operations on both sides was again and again
 imperilled, and finally in the case of the French
 brought to utter ruin by lack of that intelligence
-which could so easily have been conveyed. 
+which could so easily have been conveyed.
 June 18th was at intervals a sunshiny day---a
 four-inch glass mirror would have put Napoleon
 in communication with Gruchy, and the whole
-history of Europe might have been altered. 
+history of Europe might have been altered.
 Wellington himself suffered dreadfully from
 defective information which might have been
 easily supplied. The unexpected presence of
@@ -4457,7 +4457,7 @@ brought me to the question of Napoleon himself,
 and you see that I have a very fair line
 dealing with him also. There is Scott's life,
 which is not entirely a success. His ink was
-too precious to be shed in such a venture. 
+too precious to be shed in such a venture.
 But here are the three volumes of the physician
 Bourrienne---that Bourrienne who knew
 him so well. Does any one ever know a man
@@ -4475,7 +4475,7 @@ was a drawn plan of the battle? Meneval survived
 his master and has left an excellent and
 intimate account of him. There is Constant's
 account, also written from that point of view in
-which it is proverbial that no man is a hero. 
+which it is proverbial that no man is a hero.
 But of all the vivid terrible pictures of Napoleon
 the most haunting is by a man who never saw
 him and whose book was not directly dealing
@@ -4483,7 +4483,7 @@ with him. I mean Taine's account of him, in
 the first volume of ``Les Origines de la France
 Contemporaine.'' You can never forget it
 when once you have read it. He produces his
-effect in a wonderful, and to me a novel, way. 
+effect in a wonderful, and to me a novel, way.
 He does not, for example, say in mere crude
 words that Napoleon had a more than medi<ae>val
 Italian cunning. He presents a succession
@@ -4515,7 +4515,7 @@ is a Hindoo. Read the lives of the Borgias,
 the Sforzas, the Medicis, and of all the lustful,
 cruel, broad-minded, art-loving, talented despots
 of the little Italian States, including
-Genoa, from which the Buonapartes migrated. 
+Genoa, from which the Buonapartes migrated.
 There at once you get the real descent of the
 man, with all the stigmata clear upon him---
 the outward calm, the inward passion, the
@@ -4536,7 +4536,7 @@ him with those quick critical eyes of a clever
 woman, the most unerring things in life when
 they are not blinded by love. If you have read
 those pages, you feel that you know him as if
-you had yourself seen and talked with him. 
+you had yourself seen and talked with him.
 His singular mixture of the small and the great,
 his huge sweep of imagination, his very limited
 knowledge, his intense egotism, his impatience
@@ -4548,7 +4548,7 @@ the most striking of historical portraits.
 
   Most of my books deal with the days of his
 greatness, but here, you see, is a three-volume
-account of those weary years at St. Helena. 
+account of those weary years at St. Helena.
 Who can help pitying the mewed eagle? And
 yet if you play the great game you must pay
 a stake. This was the same man who had a
@@ -4563,7 +4563,7 @@ for the mistaken leniency. All this is forgotten
 now, and the pathetic picture of the modern
 Prometheus chained to his rock and devoured
 by the vultures of his own bitter thoughts, is
-the one impression which the world has retained. 
+the one impression which the world has retained.
 It is always so much easier to follow the emotions
 than the reason, especially where a cheap
 magnanimity and second-hand generosity are
@@ -4604,7 +4604,7 @@ from heaven would not have satisfied us.'' Let
 them recall also that Lowe with ample material
 never once troubled to state his own case. ``_Je
 fais mon devoir et suis indiff<e'>rent pour le reste_,''
-said he, in his interview with the Emperor. 
+said he, in his interview with the Emperor.
 They were no idle words.
 
   Apart from this particular epoch, French
@@ -4614,7 +4614,7 @@ there was anything of interest going forward
 there was always some kindly gossip who knew
 all about it, and was ready to set it down for
 the benefit of posterity. Our own history has
-not nearly enough of these charming sidelights. 
+not nearly enough of these charming sidelights.
 Look at our sailors in the Napoleonic wars,
 for example. They played an epoch-making
 part. For nearly twenty years Freedom
@@ -4733,7 +4733,7 @@ breath of life into the dry bones, it is the fashion
 for the dryasdusts to belabour him, as one who
 has wandered away from the orthodox path and
 must necessarily be inaccurate. So Froude
-was attacked. So also Macaulay in his day. 
+was attacked. So also Macaulay in his day.
 But both will be read when the pedants are forgotten.
 If I were asked my very ideal of how
 history should be written, I think I should
@@ -4769,7 +4769,7 @@ Wolfe,'' ``Discovery of the Great West,'' etc.
 Some day I hope to have a complete set.
 
   Taking only that one book, ``The Jesuits
-in Canada,'' it is worth a reputation in itself. 
+in Canada,'' it is worth a reputation in itself.
 And how noble a tribute is this which a man of
 Puritan blood pays to that wonderful Order!
 He shows how in the heyday of their enthusiasm
@@ -4781,7 +4781,7 @@ man may profess, or whether he be a Christian
 at all, but he cannot read these true records
 without feeling that the very highest that man
 has ever evolved in sanctity and devotion was
-to be found among these marvellous men. 
+to be found among these marvellous men.
 They were indeed the pioneers of civilization,
 for apart from doctrines they brought among
 the savages the highest European culture, and
@@ -4796,13 +4796,13 @@ that of the men of the Iroquois Mission.
   How nobly they lived makes the body of the
 book, how serenely they died forms the end to
 it. It is a tale which cannot even now be read
-without a shudder---a nightmare of horrors. 
+without a shudder---a nightmare of horrors.
 Fanaticism may brace a man to hurl himself
 into oblivion, as the Mahdi's hordes did before
 Khartoum, but one feels that it is at least a
 higher development of such emotion, where
 men slowly and in cold blood endure so thankless
-a life, and welcome so dreadful an end. 
+a life, and welcome so dreadful an end.
 Every faith can equally boast its martyrs---a
 painful thought, since it shows how many thousands
 must have given their blood for error---
@@ -4819,7 +4819,7 @@ his sweet parishioners that the very dogs used
 to howl at his distorted figure. He made his
 way back to France, not for any reason of personal
 rest or recuperation, but because he
-needed a special dispensation to say Mass. 
+needed a special dispensation to say Mass.
 The Catholic Church has a regulation that a
 priest shall not be deformed, so that the savages
 with their knives had wrought better than they
@@ -4872,7 +4872,7 @@ the race statistics of the French Canadians at
 one end of the continent, and of the Southern
 negro at the other, it seems absurd to suppose
 that there is any geographical reason against
-Nature being as prolific here as elsewhere. 
+Nature being as prolific here as elsewhere.
 However, these be deeper waters, and with your
 leave we will get back into my usual six-inch
 wading-depth once more.
@@ -4908,7 +4908,7 @@ second-hand Henleys are fortifying our literature
 to-day.
 
   Alas that we have so little of his very best!
-for that very best was the finest of our time. 
+for that very best was the finest of our time.
 Few poets ever wrote sixteen consecutive lines
 more noble and more strong than those which
 begin with the well-known quatrain---
@@ -4938,7 +4938,7 @@ quivering body.
   There were two quite distinct veins of poetry
 in Henley, each the very extreme from the
 other. The one was heroic, gigantic, running
-to large sweeping images and thundering words. 
+to large sweeping images and thundering words.
 Such are the ``Song of the Sword'' and much
 more that he has written, like the wild singing
 of some Northern scald. The other, and to my
@@ -4984,7 +4984,7 @@ to avoid the medi<ae>val French, which only a
 specialist can read with pleasure, you can get
 Lord Berners' almost equally medi<ae>val, but
 very charming English, or you can turn to a
-modern translation, such as this one of Johnes. 
+modern translation, such as this one of Johnes.
 A single page of Lord Berners is delightful;
 but it is a strain, I think, to read bulky volumes
 in an archaic style. Personally, I prefer the
@@ -5014,7 +5014,7 @@ his own valour?
 
   But without looking too curiously into his
 motives, it must be admitted that the work
-could not have been done more thoroughly. 
+could not have been done more thoroughly.
 There is something of Herodotus in the Canon's
 cheery, chatty, garrulous, take-it-or-leave-it
 manner. But he has the advantage of the old
@@ -5023,7 +5023,7 @@ to the same age which gravely accepted
 the travellers' tales of Sir John Maundeville,
 it is, I think, remarkable how careful and
 accurate the chronicler is. Take, for example,
-his description of Scotland and the Scotch. 
+his description of Scotland and the Scotch.
 Some would give the credit to Jean-le-Bel, but
 that is another matter. Scotch descriptions
 are a subject over which a fourteenth-century
@@ -5031,7 +5031,7 @@ Hainaulter might fairly be allowed a little scope
 for his imagination. Yet we can see that the
 account must on the whole have been very
 correct. The Galloway nags, the girdle-cakes,
-the bagpipes---every little detail rings true. 
+the bagpipes---every little detail rings true.
 Jean-le-Bel was actually present in a Border
 campaign, and from him Froissart got his
 material; but he has never attempted to embroider
@@ -5087,7 +5087,7 @@ be carried, but once on the horse's back the gallant
 steed supplied the muscles. In an English
 hunting-field many a doddering old man, when
 he is once firmly seated in his familiar saddle,
-can give points to the youngsters at the game. 
+can give points to the youngsters at the game.
 So it was among the knights, and those who had
 outlived all else could still carry to the wars
 their wiliness, their experience with arms, and,
@@ -5104,7 +5104,7 @@ his own curious code, and, so far as his own
 class went, his feelings were genial and sympathetic,
 even in warfare. There was no personal
 feeling or bitterness as there might be now
-in a war between Frenchmen and Germans. 
+in a war between Frenchmen and Germans.
 On the contrary, the opponents were very softspoken
 and polite to each other. ``Is there
 any small vow of which I may relieve you?''
@@ -5140,7 +5140,7 @@ and more conventional than Froissart, but the
 writer of romance can dig plenty of stones out
 of that quarry for the use of his own little
 building. Of course Quentin Durward has
-come bodily out of the pages of De Comines. 
+come bodily out of the pages of De Comines.
 The whole history of Louis XI. and his relations
 with Charles the Bold, the strange life at Plessis-le-Tours,
 the plebeian courtiers, the barber
@@ -5150,7 +5150,7 @@ it is all set forth here. One would
 imagine that such a monarch was unique, that
 such a mixture of strange qualities and monstrous
 crimes could never be matched, and yet
-like causes will always produce like results. 
+like causes will always produce like results.
 Read Walewski's ``Life of Ivan the Terrible,''
 and you will find that more than a century later
 Russia produced a monarch even more diabolical,
@@ -5165,7 +5165,7 @@ horrors when you have finished Ivan, then
 pass on to the same author's account of Peter
 the Great. What a land! What a succession
 of monarchs! Blood and snow and iron!
-Both Ivan and Peter killed their own sons. 
+Both Ivan and Peter killed their own sons.
 And there is a hideous mockery of religion
 running through it all which gives it a grotesque
 horror of its own. We have had our Henry
@@ -5222,7 +5222,7 @@ Both ``Sidonia'' and ``The Amber Witch''
 give such a picture of old Germany as I have
 never seen elsewhere.
 
-  But Meinhold belongs to a bygone generation. 
+  But Meinhold belongs to a bygone generation.
 This other author, in whom I find a new note,
 and one of great power, is Merejkowski, who
 is, if I mistake not, young and with his career
@@ -5245,7 +5245,7 @@ paper to see how common is the disease, but a
 knowledge of literary history assures us that it
 has always been the same, and that if the young
 writer is discouraged by adverse comparisons it
-has been the common lot from the beginning. 
+has been the common lot from the beginning.
 He has but one resource, which is to pay no
 heed to criticism, but to try to satisfy his own
 highest standard and leave the rest to time and
@@ -5254,7 +5254,7 @@ pinned, as you see, beside my bookcase, which
 may in a ruffled hour bring peace and guidance
 to some younger brother---
 
-	``Critics kind---never mind!
+  ``Critics kind---never mind!
           Critics flatter---no matter!
           Critics blame---all the same!
           Critics curse---none the worse!''
@@ -5277,7 +5277,7 @@ and their limited appliances!'' That is what
 they will say when they read of our explorations,
 our voyages, and our wars.
 
-  Now, take that first book on my travel shelf. 
+  Now, take that first book on my travel shelf.
 It is Knight's ``Cruise of the _Falcon._'' Nature
 was guilty of the pun which put this soul into a
 body so named. Read this simple record and
@@ -5365,7 +5365,7 @@ this book which one can never forget. The
 episode of those twenty-odd men lying upon
 that horrible bluff, and dying one a day from
 cold and hunger and scurvy, is one which
-dwarfs all our puny tragedies of romance. 
+dwarfs all our puny tragedies of romance.
 And the gallant starving leader giving lectures
 on abstract science in an attempt to take the
 thoughts of the dying men away from their
@@ -5389,7 +5389,7 @@ fine object-lesson in duty than the young recruits
 of the British army who went down in
 their ranks on the _Birkenhead_. And this expedition
 of Greely's gave rise to another example
-which seems to me hardly less remarkable. 
+which seems to me hardly less remarkable.
 You may remember, if you have read the book,
 that even when there were only about eight
 unfortunates still left, hardly able to move for
@@ -5402,7 +5402,7 @@ sight of the Capitol at Washington. His
 offence had consisted, so far as I can remember,
 of stealing and eating the thong which
 bound two portions of the sledge together,
-something about as appetizing as a bootlace. 
+something about as appetizing as a bootlace.
 It is only fair to the commander to say, however,
 that it was one of a series of petty thefts,
 and that the thong of a sledge might mean life
@@ -5429,7 +5429,7 @@ slug-like seals, startlingly black against the dazzling
 whiteness of the ice---all of it will come
 back to a man in his dreams, and will seem
 little more than some fantastic dream itself, go
-removed is it from the main stream of his life. 
+removed is it from the main stream of his life.
 And then to play a fish a hundred tons in
 weight, and worth two thousand pounds---but
 what in the world has all this to do with my
@@ -5560,7 +5560,7 @@ it is a Classic---I should not like to be positive
 that it is not---but I am perfectly sure that the
 man who wrote it has the possibility of a
 Classic within him. Here is another novel---
-``Eight Days,'' by Forrest. You can't buy it. 
+``Eight Days,'' by Forrest. You can't buy it.
 You are lucky even if you can find it in a
 library. Yet nothing ever written will bring
 the Indian Mutiny home to you as this book
@@ -5592,8 +5592,8 @@ Any discerning eye must have detected long
 before the ``Origin of Species'' appeared,
 simply on the strength of this book of travel,
 that a brain of the first order, united with
-many rare qualities of character, had arisen. 
-Never was there a more comprehensive mind. 
+many rare qualities of character, had arisen.
+Never was there a more comprehensive mind.
 Nothing was too small and nothing too great
 for its alert observation. One page is occupied
 in the analysis of some peculiarity in the web
@@ -5630,12 +5630,12 @@ strange similarity in the minds of the two
 men, the same courage, both moral and physical,
 the same gentle persistence, the same
 catholic knowledge and wide. sweep of mind,
-the same passion for the observation of Nature. 
+the same passion for the observation of Nature.
 Wallace by a flash of intuition understood and
 described in a letter to Darwin the cause of
 the Origin of Species at the very time when
 the latter was publishing a book founded upon
-twenty years' labour to prove the same thesis. 
+twenty years' labour to prove the same thesis.
 What must have been his feelings when he
 read that letter? And yet he had nothing to
 fear, for his book found no more enthusiastic
@@ -5646,7 +5646,7 @@ Wallace's missions in Papua was to examine
 the nature and species of the Birds-of-Paradise;
 but in the course of the years of his
 wanderings through those islands he made a
-complete investigation of the whole fauna. 
+complete investigation of the whole fauna.
 A footnote somewhere explains that the Papuans
 who lived in the Bird-of-Paradise country
 were confirmed cannibals. Fancy living for
@@ -5674,7 +5674,7 @@ has invariably said too much.
   Let me be didactic for a moment! I assume
 this solemn---oh, call it not pedantic!---attitude
 because my eye catches the small but select
-corner which constitutes my library of Science. 
+corner which constitutes my library of Science.
 I wanted to say that if I were advising a young
 man who was beginning life, I should counsel
 him to devote one evening a week to scientific
@@ -5695,7 +5695,7 @@ your head into one. Keep very clear of
 them until you have explored the open beds
 and wandered down every easy path. For this
 reason avoid the text-books, which repel, and
-cultivate that popular science which attracts. 
+cultivate that popular science which attracts.
 You cannot hope to be a specialist upon all these
 varied subjects. Better far to have a broad
 idea of general results, and to understand their
@@ -5720,7 +5720,7 @@ to pick out your brothers the planets, who move
 in your own circles, from the stranger stars, and
 to appreciate the order, beauty, and majesty of
 that material universe which is most surely the
-outward sign of the spiritual force behind it. 
+outward sign of the spiritual force behind it.
 How a man of science can be a materialist is as
 amazing to me as how a sectarian can limit the
 possibilities of the Creator. Show me a picture
@@ -5750,7 +5750,7 @@ of these volumes was also the energetic secretary
 of a railway company? Many men of the
 highest scientific eminence have begun in prosaic
 lines of life. Herbert Spencer was a railway
-engineer. Wallace was a land surveyor. 
+engineer. Wallace was a land surveyor.
 But that a man with so pronounced a scientific
 brain as Laing should continue all his life to
 devote his time to dull routine work, remaining
@@ -5767,7 +5767,7 @@ to be personal, I dare bet it is more interesting
 than your usual small talk. It must, of course,
 be done with some tact and discretion. It is
 the mention of Laing's works which awoke
-the train of thought which led to these remarks. 
+the train of thought which led to these remarks.
 I had met some one at a _table d'h<o^>te_ or elsewhere
 who made some remark about the prehistoric
 remains in the valley of the Somme. I knew
@@ -5794,7 +5794,7 @@ some of the pedants. It is Myers' ``Human
 Personality.'' My own opinion, for what it is
 worth, is that it will be recognized a century
 hence as a great root book, one from which a
-whole new branch of science will have sprung. 
+whole new branch of science will have sprung.
 Where between four covers will you find greater
 evidence of patience, of industry, of thought, of
 discrimination, of that sweep of mind which can
@@ -5833,7 +5833,7 @@ make up Wendell Holmes' immortal series,
 Professor at the Breakfast Table''? Here the
 subtle, dainty, delicate thought is continually
 reinforced by the allusion or the analogy which
-shows the wide, accurate knowledge behind it. 
+shows the wide, accurate knowledge behind it.
 What work it is! how wise, how witty, how large-hearted
 and tolerant! Could one choose one's
 philosopher in the Elysian fields, as once in
@@ -5842,7 +5842,7 @@ who listened to the human, kindly words of the
 Sage of Boston. I suppose it is just that continual
 leaven of science, especially of medical
 science, which has from my early student days
-given those books so strong an attraction for me. 
+given those books so strong an attraction for me.
 Never have I so known and loved a man whom
 I had never seen. It was one of the ambitions
 of my lifetime to look upon his face, but by the
@@ -5856,7 +5856,7 @@ flower fifty years before its time. One can
 hardly open a page haphazard without lighting
 upon some passage which illustrates the breadth
 of view, the felicity of phrase, and the singular
-power of playful but most suggestive analogy. 
+power of playful but most suggestive analogy.
 Here, for example, is a paragraph---no better
 than a dozen others---which combines all the
 rare qualities:---
@@ -5873,7 +5873,7 @@ hospitals, sent there in consequence of what are
 called religious mental disturbances. I confess
 that I think better of them than of many who
 hold the same notions, and keep their wits and
-enjoy life very well, outside of the asylums. 
+enjoy life very well, outside of the asylums.
 Any decent person ought to go mad if he really
 holds such and such opinions. . . . Anything
 that is brutal, cruel, heathenish, that makes life
@@ -5960,7 +5960,7 @@ pruned before being exposed to the winds
 of time. Let every weak twig, every immature
 shoot be shorn away, and nothing but strong,
 sturdy, well-seasoned branches left. So shall
-the whole tree stand strong for years to come. 
+the whole tree stand strong for years to come.
 How false an impression of the true Stevenson
 would our critical grandchild acquire if he
 chanced to pick down any one of half a dozen
@@ -6031,7 +6031,7 @@ and even in these books the influence of
 the master is apparent. There is the apt use
 of an occasional archaic or unusual word, the
 short, strong descriptions, the striking metaphors,
-the somewhat staccato fashion of speech. 
+the somewhat staccato fashion of speech.
 Yet, in spite of this flavour, they have quite
 individuality enough to constitute a school of
 their own. Their faults, or rather perhaps
@@ -6047,7 +6047,7 @@ still retains a definite and well-assured place in
 literature. There is no reason why ``Treasure
 Island'' should not be to the rising generation
 of the twenty-first century what ``Robinson
-Crusoe'' has been to that of the nineteenth. 
+Crusoe'' has been to that of the nineteenth.
 The balance of probability is all in that direction.
 
   The modern masculine novel, dealing almost
@@ -6092,7 +6092,7 @@ life for his inspiration.
   The use of novel and piquant forms of speech
 is one of the most obvious of Stevenson's devices.
 No man handles his adjectives with
-greater judgment and nicer discrimination. 
+greater judgment and nicer discrimination.
 There is hardly a page of his work where we
 do not come across words and expressions
 which strike us with a pleasant sense of novelty,
@@ -6126,7 +6126,7 @@ direct and homely comparisons.
   After all, however, the main characteristic of
 Stevenson is his curious instinct for saying in
 the briefest space just those few words which
-stamp the impression upon the reader's mind. 
+stamp the impression upon the reader's mind.
 He will make you see a thing more clearly than
 you would probably have done had your eyes
 actually rested upon it. Here are a few of
@@ -6186,7 +6186,7 @@ of the country. As a rule, you only know your
 classics when they are in their graves. Who
 guessed it of Poe, and who of Borrow? The
 Roman Catholics only canonize their saints a
-century after their death. So with our classics. 
+century after their death. So with our classics.
 The choice lies with our grandchildren. But
 I can hardly think that healthy boys will ever
 let Stevenson's books of adventure die, nor
@@ -6196,10 +6196,10 @@ parable as ``Dr. Jekyll and Mr. Hyde'' will
 ever cease to be esteemed. How well I remember
 the eagerness, the delight with which
 I read those early tales in ``Cornhill'' away
-back in the late seventies and early eighties. 
+back in the late seventies and early eighties.
 They were unsigned, after the old unfair fashion,
 but no man with any sense of prose could fail
-to know that they were all by the same author. 
+to know that they were all by the same author.
 Only years afterwards did I learn who that
 author was.
 
@@ -6211,7 +6211,7 @@ one should, indeed, be a classic, for it is in
 my judgment by all odds the best narrative
 ballad of the last century---that is if I am right
 in supposing that ``The Ancient Mariner''
-appeared at the very end of the eighteenth. 
+appeared at the very end of the eighteenth.
 I would put Coleridge's _tour de force_ of grim
 fancy first, but I know none other to compare
 in glamour and phrase and easy power with
